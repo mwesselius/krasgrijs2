@@ -1,0 +1,15 @@
+SAMPLELOADER
+>- crash: drop multiple directories on dir drop space
+>- crash: drop multiple files on file drop space
+- sound drop space accepts directories as well
+>- niet hele filename in lijst svp
+- opnieuw maken met js: niet elke keer alle samples inladen
+- optimalisatie: collcounter resetten… belangrijk?
+
+
+KRASGRIJS2
+- bug: bij mode 2 als clear, dan add samples, moet eerst weer aanzetten (spatie) voor 't verder gaat
+- raar: als nieuwe sample uitverkoren wordt, wordt ie eigenlijk pas echt gecheckt en vervangen als die uitverkorene getriggerd wordt
+- gaat combinatie met contcore (qua transport) goed?
+>- meerdere krasgrijs… ook meerdere sflists?
+- gain en timingdelay werken nu op alle samples!
