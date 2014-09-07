@@ -1,6 +1,4 @@
 SAMPLELOADER
->- crash: drop multiple directories on dir drop space
->- crash: drop multiple files on file drop space
 - sound drop space accepts directories as well
 
 
